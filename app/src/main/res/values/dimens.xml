@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_large">16dp</dimen>
+    <dimen name="margin_medium">8dp</dimen>
+    <dimen name="margin_extra_large">24dp</dimen>
+    <dimen name="content_margin">16dp</dimen>
+    <dimen name="value_txt_size">16sp</dimen>
+    <dimen name="title_txt_size">25sp</dimen>
+    <dimen name="back_btn_size">50dp</dimen>
+    <dimen name="map_frame">120dp</dimen>
+</resources>

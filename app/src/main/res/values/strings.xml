@@ -1,3 +1,18 @@
 <resources>
     <string name="app_name">LA County South Bay Tour Guide</string>
+    <string name="google_maps_API_key">AIzaSyDW88bOXMmoHuOJNC6LLdVEB1xAr87ST1o</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="address">Address</string>
+    <string name="seeTab">SEE</string>
+    <string name="doTab">DO</string>
+    <string name="eatTab">EAT</string>
+    <string name="shopTab">SHOP</string>
+    <string name="redondo_beach">Redondo Beach</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="opening_time">Opening Time</string>
+    <string name="opening_day">Opening Day</string>
+    <string name="read_more">Read more</string>
+    <string name="description">Description</string>
+    <string name="image_of_place">Image of place</string>
+    <string name="clock_image">clock image</string>
 </resources>
