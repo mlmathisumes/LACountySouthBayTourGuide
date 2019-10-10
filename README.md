@@ -1,6 +1,6 @@
 # LA County SouthBay Tour Guide App
 
-LACountySouthBayTourGuide App is a News Feed app which gives users regularly updated Tech and Sports news from the [Guardian API](https://open-platform.theguardian.com/documentation/). 
+LACountySouthBayTourGuide App is a tour guide app which offers places to eat, shop and sightsee.  
 
 This sample application demonstrates the following:
 * Planning app design and navigation before coding 
